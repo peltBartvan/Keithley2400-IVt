@@ -1,0 +1,5 @@
+# enable beeping
+:syst:beep:stat on
+
+# beep at 440 Hz for 1 seconds
+:syst:beep 440, 0.2

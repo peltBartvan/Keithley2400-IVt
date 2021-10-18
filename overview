@@ -1,0 +1,5 @@
+#sudo chmod a+rw /dev/ttyUSB0
+
+cat init setup_recipe full_loop beep_test | ./exec_scpi
+
+
